@@ -1,1 +1,4 @@
 # lasthomework
+I used this reuse-release equivalence principle,because excellent for ensuring that packages can be used in multiple projects. One significant advantage of this principle is that a single package can be used across multiple versions of a project because all changes are included.
+The common closure principle for components, this principle is known as the Single Responsibility Principle. According to the principle, should be grouped into the same component classes that change for the same reason at the same time.
+The common reuse principle this principle states that "you should not rely on things for which you do not have a need." This principle indicates which classes should not be grouped together in the same module; classes that are not tightly bound to each other should not be grouped together in the sane component.
